@@ -1,0 +1,12 @@
+
+
+.foto {
+    width: 30%;
+    display: block;
+}
+
+.foto2 {
+    width: 50%;
+    border: solid 2px blueviolet;
+    border-radius: 10px;
+}
